@@ -12,4 +12,11 @@
 
 - ### Para visualizar a documentação da API no Swagger e testar, acesse no navegador: `http://localhost:5211/swagger/index.html` (substitua 'localhost:5211' caso pretenda usar uma porta diferente)
 
-- ### Caso queira restaurar o backup do banco de dados SQL no SSMS, baixa o arquivo enciado por e-mail e rode : `select * from Wallets; select * from Users`.
+- ### [Instrução exclusiva para os avaliadores do teste, opcional para visitantes!]
+  
+- Para restaurar o backup feito do banco de dados durante o desenvolvimento desse projeto no SQL Server (SSMS):
+  
+1. Baixe o arquivo compactado anexo no e-mail,
+2. Descompacte o arquivo, gerando um documento `.bak`,
+3. Restaure normalmente no SSMS,
+4. e por fim rode os seguintes comandos para visualizar as tabelas: `select * from Wallets; select * from Users`.
