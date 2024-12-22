@@ -1,6 +1,6 @@
 # Projeto Back-end [C#] (Kognit)
 
-![image](https://github.com/user-attachments/assets/937b275f-c2f0-4a88-af85-6f4471fe253a)
+![kognit](https://github.com/user-attachments/assets/ade9e465-6b54-4a68-a407-6bca66a156ad)
 
 ## Descrição
 
