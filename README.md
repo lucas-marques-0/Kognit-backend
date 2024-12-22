@@ -10,7 +10,7 @@
 
 - ### Para rodar o projeto, execute no terminal: `dotnet run`
 
-- ### Para visualizar a documentação da API no Swagger e testar, acesse no navegador: `http://localhost:5211/swagger/index.html` (substitua 'localhost:5211' caso pretenda usar uma porta diferente)
+- ### Para visualizar a documentação da API no Swagger e testar (com o projeto rodando), acesse no navegador: `http://localhost:5211/swagger/index.html` (substitua 'localhost:5211' caso pretenda usar uma porta diferente)
 
 ## Instrução exclusiva para os avaliadores do teste:
   
