@@ -10,6 +10,6 @@
 
 - ### Para rodar o projeto, execute no terminal: `dotnet run`
 
-- ### Para visualizar a documentação da API no Swagger e testar, acesse no navegador: `http://localhost:5211/swagger/index.html`
+- ### Para visualizar a documentação da API no Swagger e testar, acesse no navegador: `http://localhost:5211/swagger/index.html` (substitua 'localhost:5211' caso pretenda usar uma porta diferente)
 
 - ### Caso queira restaurar o backup do banco de dados SQL no SSMS, baixa o arquivo enciado por e-mail e rode : `select * from Wallets; select * from Users`.
