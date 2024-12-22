@@ -20,3 +20,5 @@
 2. Descompacte o arquivo, gerando um documento `.bak`,
 3. Restaure normalmente no SSMS,
 4. e por fim rode os seguintes comandos para visualizar as tabelas: `select * from Wallets; select * from Users`.
+![{A6F26A04-62F5-4084-A7A9-B10AF8FC4495}](https://github.com/user-attachments/assets/507902a2-cdb8-4636-b9e7-18c64a017c3c)
+
