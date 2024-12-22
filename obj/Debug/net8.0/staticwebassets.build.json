@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LyNQK7eLFQWYwTN9iTyAqLNCCebFFZpXsUhxK9Z9hdk=",
+  "Source": "KognitAPI",
+  "BasePath": "_content/KognitAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

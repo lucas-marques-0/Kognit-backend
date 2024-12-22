@@ -1,0 +1,6 @@
+@KognitAPI_HostAddress = http://localhost:5211
+
+GET {{KognitAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
